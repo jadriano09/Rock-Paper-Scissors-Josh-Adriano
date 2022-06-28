@@ -1,8 +1,7 @@
-# rock paper scissors project test
-# WORK ON: if the user inputs a different value than r, p, s
-# WORK ON: keeping score of player and computer
-# WORK ON: [keeping score] till the user wants to quit
-# once the user quits, program displays who the winner is based of points
+# ROCK PAPER SCISSORS PROJECT
+# A classic game of rock paper scissors, user vs. computer
+# This program will keep score of who is winning
+# Once the player quits, this program will declare the winner!
 
 import random
 
